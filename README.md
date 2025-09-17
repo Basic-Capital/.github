@@ -64,9 +64,6 @@ Questions must relate to Basic Capital's platform and follow existing formatting
 
 Content is reviewed monthly for accuracy. Updates reflect platform changes, new features, and user feedback.
 
-## License
-
-MIT License - see LICENSE file for details.
 
 ### Maintainers
 This repository is maintained by the Basic Capital team.
