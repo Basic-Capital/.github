@@ -1,0 +1,2 @@
+# .github
+About Basic Capital
