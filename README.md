@@ -12,7 +12,7 @@ Basic Capital is a full-stack 401(k) platform.  We are a third-party administrat
 
 ## Repository Contents
 
-### [FAQ](basic_capital_faq_repo.md)
+### [FAQ](https://github.com/Basic-Capital/basic-capital-ira-401k-faq-/blob/main/basic_capital_faq_repo.md)
 32 questions organized in three sections:
 - General Questions (12) - Platform basics and comparisons
 - Individual Investors (10) - IRA-specific information
